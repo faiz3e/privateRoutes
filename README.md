@@ -15,3 +15,4 @@ and splitted in separate files
 
 # react-redux-saga
 # privateRoutes
+# privateRoutes
